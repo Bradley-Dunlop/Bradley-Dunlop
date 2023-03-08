@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 - 🌱 I’m currently learning networking
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with cyber security
@@ -8,4 +7,4 @@
 - 📫 How to reach me: braddunlop30@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy art and photography!
--->
+
